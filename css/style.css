@@ -1,6 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=Slackey);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
 header{
   text-align: center;
+  font-size: 30px;
+  font-family: 'Slackey';
+  color: #BF0000
 }
-#navLinks{
+nav{
   text-align: center;
+  width:100%;
+  font-size: 25px;
+  font-family: 'Slackey';
+  background-color: #EF8282;
+  color:#BF0000;
+}
+nav a{
+  margin: 50px;
+}
+
+#beantruck{
+text-align: center;
+padding-top: 100px;
+font-size: 30px;
+}
+
+footer{
+  
+  font-weight: bold;
+  font-size: 45px;
+  font-family: "Slackey"
+
+}
+h3{
+  text-align: center;
+  font-weight: bolder;
+  font-size: 40px;
+  font-family: 'Slackey';
+
+
+}
+#Appetizers{
+  font-weight: bold;
+  30px;
+}
+#container{
+width: 75%;
+margin:auto;
+}
+h4{
+  font-family: 'Slackey';
+  color: #EF8282;
+}
+ul{
+  font-family: 'Montserrat';
+  list-style-image: url(../list.png);
+  margin:center;
+  padding: auto;
+}
+p{
+  font-family: 'Montserrat';
+
+}
+.center{
+  float: center;
+  margin:auto;
+  display:block;
+}
+a:visited{
+  color:#BF0000;
+}
+#map{
+  width:40%;
+  margin: auto;
 }
